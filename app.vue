@@ -3,7 +3,7 @@
     <div class="cv">
       <div class="header">
         <div class="profile">
-          <img src="assets/img/ilmi.jpg" alt="Profile Photo" class="profile-photo" />
+          <img src="assets/img/Ilmi.jpg" alt="Profile Photo" class="profile-photo" />
         </div>
         <div class="info">
           <h1>CV Ilmi Ananda Putri Yuliani</h1>
